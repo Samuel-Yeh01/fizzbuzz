@@ -18,4 +18,4 @@ Pass a different argument(positive integer) and get result by following conditio
 | 16       | x            | x            | 16     |
 
 ## Outcome
-![Outcome]()
+![Outcome](https://imgur.com/a/yGvwp1K)
